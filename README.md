@@ -1,2 +1,2 @@
-# HonorsFramework
-Honors Thesis: Plan for Reproducible Workflow
+# Honors Thesis Framework
+This is the Plan for Reproducible Workflow for Data H195A.
